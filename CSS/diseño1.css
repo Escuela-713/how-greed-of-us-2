@@ -1,0 +1,47 @@
+.tipografia {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    text-align: justify;
+}
+.inicio {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    text-align: center;
+    
+}
+
+.Titulo 
+{
+color:white;
+
+}
+li {
+    list-style-type: none;
+}
+footer {
+    background-color: white;
+color: black;
+padding-top: 10px;
+position: absolute;
+bottom: 0;
+width: 100%;
+}
+
+
+.binario {
+
+font-family:monospace;
+
+color:lawngreen;
+background-color: black ;
+
+}
+
+
+
+   
+
+
+
+
+
